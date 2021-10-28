@@ -7,3 +7,6 @@ If the space above the player [1,0] is occupied by an obstacle, the algorithm wi
 list is exhausted or the player can move. 
 One final feature of this algorithm is the ability to avoid 'getting stuck'. For example of 0 doesn't work but 90 does work however once the player translates to 90,
 0 is the only one that works, the algorithm will prevent the player from going back to its original position for 1 move. This way, it is impossible to get stuck.
+
+
+Created Summer 2021
