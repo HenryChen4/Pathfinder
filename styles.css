@@ -1,0 +1,21 @@
+#board {
+    border: black 1px solid;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.board-row {
+    border: black 1px solid;
+}   
+
+.board-cell {
+    border: black 1px solid;
+}
+
+.board-cell-obstacle {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: red;
+}
